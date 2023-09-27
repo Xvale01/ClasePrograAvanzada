@@ -1699,6 +1699,8 @@
     <Content Include="templates\vendors\tinymce\skins\ui\oxide\fonts\tinymce-mobile.woff" />
     <Content Include="Views\Login\IniciarSesion.cshtml" />
     <Content Include="Views\Shared\_Layout_Login.cshtml" />
+    <Content Include="Views\Login\RecuperarCuenta.cshtml" />
+    <Content Include="Views\Login\RegistrarCuenta.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
